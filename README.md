@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SmartKargo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://smartkargo.com/
+SmartKargo provides a digital platform that enables airlines to monetize unused cargo capacity by connecting e‑commerce shippers with air carriers. Founded in 2006 at MIT, the company offers SaaS solutions for domestic and cross‑border e‑commerce, core cargo management, and AI‑driven applications, serving over 25 airlines worldwide and processing millions of small‑package shipments each year.
+
+**Areas:** Company · Logistics · AirCargo · ECommerce · SaaS · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://smartkargo.com/)
+- [Blog](https://www.smartkargo.com/blog)
+- [Terms of service](https://www.smartkargo.com/terms-and-conditions)
+- [Privacy policy](https://www.smartkargo.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/smartkargo/](https://apis.io/providers/smartkargo/).
